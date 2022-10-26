@@ -18,14 +18,14 @@
   <p align="center">
     Solidity Smart Contract on Ethereum Blockchain.
     <br />
-    <a href="https://github.com/wtakaman/takaman-nft-smart-contract"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/wtakaman/takaman-ico-smart-contract"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/wtakaman/takaman-nft-smart-contract">View Demo</a>
+    <a href="https://github.com/wtakaman/takaman-ico-smart-contract">View Demo</a>
     ·
-    <a href="https://github.com/wtakaman/takaman-nft-smart-contract/issues">Report Bug</a>
+    <a href="https://github.com/wtakaman/takaman-ico-smart-contract/issues">Report Bug</a>
     ·
-    <a href="https://github.com/wtakaman/takaman-nft-smart-contract/issues">Request Feature</a>
+    <a href="https://github.com/wtakaman/takaman-ico-smart-contract/issues">Request Feature</a>
   </p>
 </div>
 
@@ -75,7 +75,7 @@ First you need to set up:
 
 <!-- ROADMAP -->
 ## Roadmap
-See the [open issues](https://github.com/wtakaman/takaman-nft-smart-contract/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/wtakaman/takaman-ico-smart-contract/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -106,20 +106,20 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 wtakaman.eth - [@wtakaman](https://twitter.com/wtakaman)
-Project Link: [https://github.com/wtakaman/takaman-nft-smart-contract](https://github.com/wtakaman/takaman-nft-smart-contract)
+Project Link: [https://github.com/wtakaman/takaman-ico-smart-contract](https://github.com/wtakaman/takaman-ico-smart-contract)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/wtakaman/takaman-nft-smart-contract.svg?style=for-the-badge
-[contributors-url]: https://github.com/wtakaman/takaman-nft-smart-contract/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/wtakaman/takaman-nft-smart-contract.svg?style=for-the-badge
-[forks-url]: https://github.com/wtakaman/takaman-nft-smart-contract/network/members
-[stars-shield]: https://img.shields.io/github/stars/wtakaman/takaman-nft-smart-contract.svg?style=for-the-badge
-[stars-url]: https://github.com/wtakaman/takaman-nft-smart-contract/stargazers
-[issues-shield]: https://img.shields.io/github/issues/wtakaman/takaman-nft-smart-contract.svg?style=for-the-badge
-[issues-url]: https://github.com/wtakaman/takaman-nft-smart-contract/issues
-[license-shield]: https://img.shields.io/github/license/wtakaman/takaman-nft-smart-contract.svg?style=for-the-badge
-[license-url]: https://github.com/wtakaman/takaman-nft-smart-contract/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/wtakaman/takaman-ico-smart-contract.svg?style=for-the-badge
+[contributors-url]: https://github.com/wtakaman/takaman-ico-smart-contract/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wtakaman/takaman-ico-smart-contract.svg?style=for-the-badge
+[forks-url]: https://github.com/wtakaman/takaman-ico-smart-contract/network/members
+[stars-shield]: https://img.shields.io/github/stars/wtakaman/takaman-ico-smart-contract.svg?style=for-the-badge
+[stars-url]: https://github.com/wtakaman/takaman-ico-smart-contract/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wtakaman/takaman-ico-smart-contract.svg?style=for-the-badge
+[issues-url]: https://github.com/wtakaman/takaman-ico-smart-contract/issues
+[license-shield]: https://img.shields.io/github/license/wtakaman/takaman-ico-smart-contract.svg?style=for-the-badge
+[license-url]: https://github.com/wtakaman/takaman-ico-smart-contract/blob/master/LICENSE.txt
